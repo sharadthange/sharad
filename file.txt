@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-this is master
-=======
-<<<<<<< HEAD
-this is dev file
-=======
-this is feauture file
->>>>>>> feature
->>>>>>> dev
